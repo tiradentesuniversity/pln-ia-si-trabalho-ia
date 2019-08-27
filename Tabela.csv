@@ -1,0 +1,502 @@
+id;texto_port;sentimento
+0;Eu amo musicas de rock;Positivo
+1;Eu amo chocolate;Positivo
+2;Treine sua mente para ver o lado bom de qualquer situacao;Positivo
+3;Se jogue no que te faz sorrir;Positivo
+4;Energia positiva e o melhor presente que a gente pode receber;Positivo
+5;A forca de dentro e maior que todos os ventos contrarios;Positivo
+6;Ninguem alem de voce;Positivo
+7;Tudo vale a pena quando a alma nao e pequena;Positivo
+8;Imagine uma nova historia para sua vida e acredite nela;Positivo
+9;Nao lute tanto para ser perfeito demais;Positivo
+10;Eu amo jogar;Positivo
+11;Eu gosto da vida;Positivo
+12;Eu adoro sair;Positivo
+13;Eu adoro estudar;Positivo
+14;Eu adoro mexer nos programas do computador;Positivo
+15;Eu amo comprar;Positivo
+16;Ter dinheiro e bom;Positivo
+17;Ter uma saude boa e otimo;Positivo
+18;Olhe sempre para frente;Positivo
+19;Eu amo comprar;Positivo
+20;Cuide da vida;Positivo
+21;Cuide dos outros;Positivo
+22;Ame ao proximo;Positivo
+23;Eu amo comer;Positivo
+24;Pizza e tudo;Positivo
+25;Passar de ano e otimo;Positivo
+26;Cuide dos pais;Positivo
+27;Ter amigo e vida;Positivo
+28;Nao deixe os outros te derrubarem;Positivo
+29;O que quer que voce lute, voce fortalece;Positivo
+30;Valorize quem te quer bem ;Positivo
+31;Quer voce acredite que consiga fazer uma coisa ou nao;Positivo
+32;Uma verdade deixa de ser verdadeira quando mais de uma pessoa acredita nela;Positivo
+33;Tudo na vida vale apena;Positivo
+34;Acredite na justica;Positivo
+35;Se voce tem o sonho de fazer algo ;Positivo
+36;A vida vale a pena viver;Positivo
+37;Ame mesmo que isso cause sofrimento;Positivo
+38;Lute pelo bem que a luz nao se apagar;Positivo
+39;Nao seja melhor que ninguem;Positivo
+40;Nao desista da vida;Positivo
+41; Pois nesta luta voce pode se auto destruir ;Positivo
+42; lute por seus ideais ;Positivo
+43; Nao desista dos seus sonhos;Positivo
+44; voce pode chegar onde quiser;Positivo
+45; seja apenas diferente e lute pelos seus objetivos;Positivo
+46; mesmo que todo mundo fale para desistir. Lute pelo que voce quer;Positivo
+47; mas nao a que emana dos demais e sim na tua propria;Positivo
+48; voce esta certo.;Positivo
+49; pois ninguem lutara pra voce;Positivo
+50; tenha fe e lute.;Positivo
+51; lute por aquilo que voce acredita.;Positivo
+52;A forca de dentro e maior que todos os ventos contrarios;Positivo
+53;Eu amo musicas de rock;Positivo
+54;Eu amo chocolate;Positivo
+55;Treine sua mente para ver o lado bom de qualquer situacao;Positivo
+56;Se jogue no que te faz sorrir.;Positivo
+57;Energia positiva e o melhor presente que a gente pode receber.;Positivo
+58;A forca de dentro e maior que todos os ventos contrarios;Positivo
+59;Ninguem alem de voce;Positivo
+60;Tudo vale a pena quando a alma nao e pequena;Positivo
+61;Imagine uma nova historia para sua vida e acredite nela;Positivo
+62;Nao lute tanto para ser perfeito demais;Positivo
+63;Eu amo jogar;Positivo
+64;Eu gosto da vida;Positivo
+65;Eu adoro sair;Positivo
+66;Eu adoro estudar;Positivo
+67;Eu adoro mexer nos programas do computador;Positivo
+68;Eu amo comprar;Positivo
+69;Ter dinheiro e bom;Positivo
+70;Ter uma saude boa e otimo;Positivo
+71;Olhe sempre para frente;Positivo
+72;Tudo vale a pena quando a alma nao e pequena;Positivo
+73;Imagine uma nova historia para sua vida e acredite nela;Positivo
+74;Nao lute tanto para ser perfeito demais;Positivo
+75;Eu amo jogar;Positivo
+76;Eu gosto da vida;Positivo
+77;Eu adoro sair;Positivo
+78;Eu adoro estudar;Positivo
+79;Eu adoro mexer nos programas do computador;Positivo
+80;Eu amo comprar;Positivo
+81;Ter dinheiro e bom;Positivo
+82;Eu amo jogar;Positivo
+83;Eu gosto da vida;Positivo
+84;Eu adoro sair;Positivo
+85;Eu adoro estudar;Positivo
+86;Eu adoro mexer nos programas do computador;Positivo
+87;Eu amo comprar;Positivo
+88;Ter dinheiro e bom;Positivo
+89;Ter uma saude boa e otimo;Positivo
+90;Olhe sempre para frente;Positivo
+91;Tudo vale a pena quando a alma nao e pequena;Positivo
+92;Imagine uma nova historia para sua vida e acredite nela;Positivo
+93;Eu amo jogar;Positivo
+94;Eu gosto da vida;Positivo
+95;Eu adoro sair;Positivo
+96;Eu adoro estudar;Positivo
+97;Eu adoro mexer nos programas do computador;Positivo
+98;Eu amo comprar;Positivo
+99;Ter dinheiro e bom;Positivo
+100;Ter uma saude boa e otimo;Positivo
+101;Eu adoro estudar;Positivo
+102;Eu adoro mexer nos programas do computador;Positivo
+103;Eu amo comprar;Positivo
+104;Imagine uma nova historia para sua vida e acredite nela;Positivo
+105;Nao lute tanto para ser perfeito demais;Positivo
+106;Eu amo jogar;Positivo
+107;Eu gosto da vida;Positivo
+108;Eu adoro sair;Positivo
+109;Eu adoro estudar;Positivo
+110;Eu adoro mexer nos programas do computador;Positivo
+111;Eu amo comprar;Positivo
+112;Ter dinheiro e bom;Positivo
+113;Imagine uma nova historia para sua vida e acredite nela;Positivo
+114;Nao lute tanto para ser perfeito demais;Positivo
+115;Eu amo jogar;Positivo
+116;Eu gosto da vida;Positivo
+117;Eu adoro sair;Positivo
+118;Eu adoro estudar;Positivo
+119;Eu adoro mexer nos programas do computador;Positivo
+120;Eu amo comprar;Positivo
+121;Ter dinheiro e bom;Positivo
+122;Imagine uma nova historia para sua vida e acredite nela;Positivo
+123;Nao lute tanto para ser perfeito demais;Positivo
+124;Eu amo jogar;Positivo
+125;Eu gosto da vida;Positivo
+126;Eu adoro sair;Positivo
+127;Eu adoro estudar;Positivo
+128;Eu adoro mexer nos programas do computador;Positivo
+129;Eu amo comprar;Positivo
+130;Ter dinheiro e bom;Positivo
+131;Imagine uma nova historia para sua vida e acredite nela;Positivo
+132;Eu amo comer;Positivo
+133;Eu amo musicas de rock;Positivo
+134;Eu amo chocolate;Positivo
+135;Treine sua mente para ver o lado bom de qualquer situacao;Positivo
+136;Se jogue no que te faz sorrir.;Positivo
+137;Energia positiva e o melhor presente que a gente pode receber.;Positivo
+138;A forca de dentro e maior que todos os ventos contrarios.;Positivo
+139;Ninguem alem de voce;Positivo
+140;Tudo vale a pena quando a alma nao e pequena;Positivo
+141;Imagine uma nova historia para sua vida e acredite nela.;Positivo
+142;Nao lute tanto para ser perfeito demais;Positivo
+143;Eu amo jogar;Positivo
+144;Eu gosto da vida;Positivo
+145;Eu adoro sair;Positivo
+146;Eu adoro estudar;Positivo
+147;Eu adoro mexer nos programas do computador;Positivo
+148;Eu amo comprar;Positivo
+149;Ter dinheiro e bom;Positivo
+150;Ter uma saude boa e otimo;Positivo
+151;Eu amo musicas de rock;Positivo
+152;Eu amo chocolate;Positivo
+153;Treine sua mente para ver o lado bom de qualquer situacao;Positivo
+154;Se jogue no que te faz sorrir.;Positivo
+155;Energia positiva e o melhor presente que a gente pode receber.;Positivo
+156;A forca de dentro e maior que todos os ventos contrarios.;Positivo
+157;Ninguem alem de voce;Positivo
+158;Tudo vale a pena quando a alma nao e pequena;Positivo
+159;Imagine uma nova historia para sua vida e acredite nela.;Positivo
+160;Nao lute tanto para ser perfeito demais;Positivo
+161;Eu amo jogar;Positivo
+162;Eu gosto da vida;Positivo
+163;Eu adoro sair;Positivo
+164;Eu adoro estudar;Positivo
+165;Eu adoro mexer nos programas do computador;Positivo
+166;Eu amo comprar;Positivo
+167;Ter dinheiro e bom;Positivo
+168;Ter uma saude boa e otimo;Positivo
+169;Eu amo musicas de rock;Positivo
+170;Eu amo chocolate;Positivo
+171;Treine sua mente para ver o lado bom de qualquer situacao;Positivo
+172;Se jogue no que te faz sorrir.;Positivo
+173;Energia positiva e o melhor presente que a gente pode receber.;Positivo
+174;A forca de dentro e maior que todos os ventos contrarios.;Positivo
+175;Ninguem alem de voce;Positivo
+176;Tudo vale a pena quando a alma nao e pequena;Positivo
+177;Imagine uma nova historia para sua vida e acredite nela.;Positivo
+178;Nao lute tanto para ser perfeito demais;Positivo
+179;Eu amo jogar;Positivo
+180;Eu gosto da vida;Positivo
+181;Eu adoro sair;Positivo
+182;Eu adoro estudar;Positivo
+183;Eu adoro mexer nos programas do computador;Positivo
+184;Eu amo comprar;Positivo
+185;Ter dinheiro e bom;Positivo
+186;Ter uma saude boa e otimo;Positivo
+187;Olhe sempre para frente;Positivo
+188;Olhe sempre para frente;Positivo
+189;Imagine uma nova historia para sua vida e acredite nela;Positivo
+190;Nao lute tanto para ser perfeito demais;Positivo
+191;Eu amo jogar;Positivo
+192;Eu gosto da vida;Positivo
+193;Eu adoro sair;Positivo
+194;Eu adoro estudar;Positivo
+195;Eu adoro mexer nos programas do computador;Positivo
+196;Eu amo comprar;Positivo
+197;Ter dinheiro e bom;Positivo
+198;Imagine uma nova historia para sua vida e acredite nela;Positivo
+199;Nao lute tanto para ser perfeito demais;Positivo
+200;Eu amo jogar;Positivo
+201;Eu gosto da vida;Positivo
+202;Eu adoro sair;Positivo
+203;Eu adoro estudar;Positivo
+204;Eu adoro mexer nos programas do computador;Positivo
+205;Eu amo comprar;Positivo
+206;Ter dinheiro e bom;Positivo
+207;Imagine uma nova historia para sua vida e acredite nela;Positivo
+208;Nao lute tanto para ser perfeito demais;Positivo
+209;Eu amo jogar;Positivo
+210;Eu gosto da vida;Positivo
+211;Eu adoro sair;Positivo
+212;Eu adoro estudar;Positivo
+213;A forca de dentro e maior que todos os ventos contrarios.;Positivo
+214;Ninguem alem de voce;Positivo
+215;Tudo vale a pena quando a alma nao e pequena;Positivo
+216;Imagine uma nova historia para sua vida e acredite nela.;Positivo
+217;Nao lute tanto para ser perfeito demais;Positivo
+218;Eu amo jogar;Positivo
+219;Eu gosto da vida;Positivo
+220;Eu adoro sair;Positivo
+221;Eu adoro estudar;Positivo
+222;Eu adoro mexer nos programas do computador;Positivo
+223;Eu amo comprar;Positivo
+224;Ter dinheiro e bom;Positivo
+225;Ter uma saude boa e otimo;Positivo
+226;Olhe sempre para frente;Positivo
+227;Treine sua mente para ver o lado bom de qualquer situacao;Positivo
+228;Se jogue no que te faz sorrir.;Positivo
+229;Energia positiva e o melhor presente que a gente pode receber.;Positivo
+230;A forca de dentro e maior que todos os ventos contrarios.;Positivo
+231;Ninguem alem de voce;Positivo
+232;Tudo vale a pena quando a alma nao e pequena;Positivo
+233;Imagine uma nova historia para sua vida e acredite nela.;Positivo
+234;A forca de dentro e maior que todos os ventos contrarios.;Positivo
+235;Ninguem alem de voce;Positivo
+236;Tudo vale a pena quando a alma nao e pequena;Positivo
+237;Imagine uma nova historia para sua vida e acredite nela.;Positivo
+238;Nao lute tanto para ser perfeito demais;Positivo
+239;Eu amo jogar;Positivo
+240;Eu gosto da vida;Positivo
+241;Eu adoro sair;Positivo
+242;Eu adoro estudar;Positivo
+243;Eu adoro mexer nos programas do computador;Positivo
+244;Eu amo comprar;Positivo
+245;Ter dinheiro e bom;Positivo
+246;Ter uma saude boa e otimo;Positivo
+247;Olhe sempre para frente;Positivo
+248;Treine sua mente para ver o lado bom de qualquer situacao;Positivo
+249;Se jogue no que te faz sorrir.;Negativo
+250;Energia positiva e o melhor presente que a gente pode receber.;Negativo
+251;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+252;Ninguem alem de voce;Negativo
+253;Tudo vale a pena quando a alma nao e pequena;Negativo
+254;Imagine uma nova historia para sua vida e acredite nela.;Negativo
+255;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+256;Imagine uma nova historia para sua vida e acredite nela;Negativo
+257;Nao lute tanto para ser perfeito demais;Negativo
+258;Eu amo jogar;Negativo
+259;Eu gosto da vida;Negativo
+260;Eu adoro sair;Negativo
+261;Eu adoro estudar;Negativo
+262;Eu adoro mexer nos programas do computador;Negativo
+263;Eu amo comprar;Negativo
+264;Ter dinheiro e bom;Negativo
+265;Imagine uma nova historia para sua vida e acredite nela;Negativo
+266;Nao lute tanto para ser perfeito demais;Negativo
+267;Eu amo jogar;Negativo
+268;Eu gosto da vida;Negativo
+269;Eu adoro sair;Negativo
+270;Eu adoro estudar;Negativo
+271;Eu adoro mexer nos programas do computador;Negativo
+272;Eu amo comprar;Negativo
+273;Ter dinheiro e bom;Negativo
+274;Imagine uma nova historia para sua vida e acredite nela;Negativo
+275;Nao lute tanto para ser perfeito demais;Negativo
+276;Eu amo jogar;Negativo
+277;Eu adoro sair;Negativo
+278;Eu adoro estudar;Negativo
+279;Eu adoro mexer nos programas do computador;Negativo
+280;Eu amo comprar;Negativo
+281;Ter dinheiro e bom;Negativo
+282;Ter uma saude boa e otimo;Negativo
+283;Olhe sempre para frente;Negativo
+284;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+285;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+286;Ninguem alem de voce;Negativo
+287;Tudo vale a pena quando a alma nao e pequena;Negativo
+288;Imagine uma nova historia para sua vida e acredite nela.;Negativo
+289;Nao lute tanto para ser perfeito demais;Negativo
+290;Eu amo jogar;Negativo
+291;Eu gosto da vida;Negativo
+292;Eu adoro sair;Negativo
+293;Eu adoro estudar;Negativo
+294;Eu adoro mexer nos programas do computador;Negativo
+295;Eu amo comprar;Negativo
+296;Ter dinheiro e bom;Negativo
+297;Ter uma saude boa e otimo;Negativo
+298;Olhe sempre para frente;Negativo
+299;Treine sua mente para ver o lado bom de qualquer situacao;Negativo
+300;Se jogue no que te faz sorrir.;Negativo
+301;Energia positiva e o melhor presente que a gente pode receber.;Negativo
+302;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+303;Ninguem alem de voce;Negativo
+304;Tudo vale a pena quando a alma nao e pequena;Negativo
+305;Imagine uma nova historia para sua vida e acredite nela.;Negativo
+306;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+307;Ninguem alem de voce;Negativo
+308;Tudo vale a pena quando a alma nao e pequena;Negativo
+309;Imagine uma nova historia para sua vida e acredite nela.;Negativo
+310;Nao lute tanto para ser perfeito demais;Negativo
+311;Eu amo jogar;Negativo
+312;Eu gosto da vida;Negativo
+313;Eu adoro sair;Negativo
+314;Eu adoro estudar;Negativo
+315;Eu adoro mexer nos programas do computador;Negativo
+316;Eu amo comprar;Negativo
+317;Ter dinheiro e bom;Negativo
+318;Ter uma saude boa e otimo;Negativo
+319;Eu amo musicas de rock;Negativo
+320;Eu amo chocolate;Negativo
+321;Treine sua mente para ver o lado bom de qualquer situacao;Negativo
+322;Se jogue no que te faz sorrir.;Negativo
+323;Energia positiva e o melhor presente que a gente pode receber.;Negativo
+324;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+325;Ninguem alem de voce;Negativo
+326;Tudo vale a pena quando a alma nao e pequena;Negativo
+327;Imagine uma nova historia para sua vida e acredite nela.;Negativo
+328;Nao lute tanto para ser perfeito demais;Negativo
+329;Eu amo jogar;Negativo
+330;Eu gosto da vida;Negativo
+331;Eu adoro sair;Negativo
+332;Eu adoro estudar;Negativo
+333;Eu adoro mexer nos programas do computador;Negativo
+334;Eu amo comprar;Negativo
+335;Ter dinheiro e bom;Negativo
+336;Ter uma saude boa e otimo;Negativo
+337;Olhe sempre para frente;Negativo
+338;Treine sua mente para ver o lado bom de qualquer situacao;Negativo
+339;Se jogue no que te faz sorrir.;Negativo
+340;Energia positiva e o melhor presente que a gente pode receber.;Negativo
+341;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+342;Ninguem alem de voce;Negativo
+343;Tudo vale a pena quando a alma nao e pequena;Negativo
+344;Imagine uma nova historia para sua vida e acredite nela.;Negativo
+345;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
+346;Eu amo comprar;Negativo
+347;Ter dinheiro e bom;Negativo
+348;Ter uma saude boa e otimo;Negativo
+349;Olhe sempre para frente;Negativo
+350;Treine sua mente para ver o lado bom de qualquer situacao;Negativo
+351;Se jogue no que te faz sorrir.;Negativo
+352;Energia positiva e o melhor presente que a gente pode receber.;Negativo
+353;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+354;Ninguem alem de voce;Negativo
+355;Tudo vale a pena quando a alma nao e pequena;Negativo
+356;Imagine uma nova historia para sua vida e acredite nela.;Negativo
+357;Eu espanquei mas fiquei bem;Negativo
+358;Gritei e me senti bem;Negativo
+359;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
+360;Eu espanquei mas fiquei bem;Negativo
+361;Gritei e me senti bem;Negativo
+362;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
+363;Eu espanquei mas fiquei bem;Negativo
+364;Gritei e me senti bem;Negativo
+365;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
+366;Eu espanquei mas fiquei bem;Negativo
+367;Gritei e me senti bem;Negativo
+368;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
+369;Treine sua mente para ver o lado bom de qualquer situacao;Negativo
+370;Se jogue no que te faz sorrir.;Negativo
+371;Energia positiva e o melhor presente que a gente pode receber.;Negativo
+372;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+373;Ninguem alem de voce;Negativo
+374;Tudo vale a pena quando a alma nao e pequena;Negativo
+375;Imagine uma nova historia para sua vida e acredite nela.;Negativo
+376;Gritei e me senti bem;Negativo
+377;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
+378;Treine sua mente para ver o lado bom de qualquer situacao;Negativo
+379;Se jogue no que te faz sorrir.;Negativo
+380;Energia positiva e o melhor presente que a gente pode receber.;Negativo
+381;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+382;Ninguem alem de voce;Negativo
+383;Tudo vale a pena quando a alma nao e pequena;Negativo
+384;Imagine uma nova historia para sua vida e acredite nela.;Negativo
+385;Energia positiva e o melhor presente que a gente pode receber.;Negativo
+386;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+387;Ninguem alem de voce;Negativo
+388;Tudo vale a pena quando a alma nao e pequena;Negativo
+389;Imagine uma nova historia para sua vida e acredite nela.;Negativo
+390;Nao lute tanto para ser perfeito demais;Negativo
+391;Eu amo jogar;Negativo
+392;Eu gosto da vida;Negativo
+393;Eu adoro sair;Negativo
+394;Eu adoro estudar;Negativo
+395;Eu adoro mexer nos programas do computador;Negativo
+396;Eu amo comprar;Negativo
+397;Ter dinheiro e bom;Negativo
+398;Ter uma saude boa e otimo;Negativo
+399;Olhe sempre para frente;Negativo
+400;Gritei e me senti bem;Negativo
+401;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
+402;Treine sua mente para ver o lado bom de qualquer situacao;Negativo
+403;Se jogue no que te faz sorrir.;Negativo
+404;Energia positiva e o melhor presente que a gente pode receber.;Negativo
+405;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+406;Ninguem alem de voce;Negativo
+407;Tudo vale a pena quando a alma nao e pequena;Negativo
+408;Imagine uma nova historia para sua vida e acredite nela.;Negativo
+409;Gritei e me senti bem;Negativo
+410;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
+411;Treine sua mente para ver o lado bom de qualquer situacao;Negativo
+412;Se jogue no que te faz sorrir.;Negativo
+413;Energia positiva e o melhor presente que a gente pode receber.;Negativo
+414;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+415;Ninguem alem de voce;Negativo
+416;Eu espanquei mas fiquei bem;Negativo
+417;Gritei e me senti bem;Negativo
+418;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
+419;Treine sua mente para ver o lado bom de qualquer situacao;Negativo
+420;Gritei e me senti bem;Negativo
+421;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
+422;Treine sua mente para ver o lado bom de qualquer situacao;Negativo
+423;Se jogue no que te faz sorrir.;Negativo
+424;Energia positiva e o melhor presente que a gente pode receber.;Negativo
+425;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+426;Ninguem alem de voce;Negativo
+427;Tudo vale a pena quando a alma nao e pequena;Negativo
+428;Imagine uma nova historia para sua vida e acredite nela.;Negativo
+429;Gritei e me senti bem;Negativo
+430;Eu adoro mexer nos programas do computador;Negativo
+431;Cuide da vida;Negativo
+432;Eu adoro sair;Negativo
+433;Eu adoro estudar;Negativo
+434;Eu adoro mexer nos programas do computador;Negativo
+435;Eu amo comprar;Negativo
+436;Eu espanquei mas fiquei bem;Negativo
+437;Gritei e me senti bem;Negativo
+438;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
+439;Eu espanquei mas fiquei bem;Negativo
+440;Gritei e me senti bem;Negativo
+441;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
+442;Eu espanquei mas fiquei bem;Negativo
+443;Gritei e me senti bem;Negativo
+444;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
+445;Tudo vale a pena quando a alma nao e pequena;Negativo
+446;Ter uma saude boa e otimo;Negativo
+447;Olhe sempre para frente;Negativo
+448;Agua e vida para que se possa viver;Negativo
+449;Cuide da vida;Negativo
+450;Eu amo musicas de rock;Negativo
+451;Eu amo chocolate;Negativo
+452;Treine sua mente para ver o lado bom de qualquer situacao;Negativo
+453;Se jogue no que te faz sorrir.;Negativo
+454;Energia positiva e o melhor presente que a gente pode receber.;Negativo
+455;A forca de dentro e maior que todos os ventos contrarios.;Negativo
+456;Ninguem alem de voce;Negativo
+457;Tudo vale a pena quando a alma nao e pequena;Negativo
+458;Imagine uma nova historia para sua vida e acredite nela.;Negativo
+459;Nao lute tanto para ser perfeito demais;Negativo
+460;Eu amo jogar;Negativo
+461;Eu gosto da vida;Negativo
+462;Eu adoro sair;Negativo
+463;Eu adoro estudar;Negativo
+464;Eu adoro mexer nos programas do computador;Negativo
+465;Eu amo comprar;Negativo
+466;Ter dinheiro e bom;Negativo
+467;Ter uma saude boa e otimo;Negativo
+468;Olhe sempre para frente;Negativo
+469;Agua e vida para que se possa viver;Negativo
+470;Cuide da vida;Negativo
+471;Ter uma saude boa e otimo;Negativo
+472;Olhe sempre para frente;Negativo
+473;Agua e vida para que se possa viver;Negativo
+474;Cuide da vida;Negativo
+475;Ter uma saude boa e otimo;Negativo
+476;Olhe sempre para frente;Negativo
+477;Agua e vida para que se possa viver;Negativo
+478;Cuide da vida;Negativo
+479;Ter uma saude boa e otimo;Negativo
+480;Olhe sempre para frente;Negativo
+481;Agua e vida para que se possa viver;Negativo
+482;Cuide da vida;Negativo
+483;Ter uma saude boa e otimo;Negativo
+484;Olhe sempre para frente;Negativo
+485;Agua e vida para que se possa viver;Negativo
+486;Cuide da vida;Negativo
+487;Ter uma saude boa e otimo;Negativo
+488;Olhe sempre para frente;Negativo
+489;Agua e vida para que se possa viver;Negativo
+490;Cuide da vida;Negativo
+491;Ter uma saude boa e otimo;Negativo
+492;Olhe sempre para frente;Negativo
+493;Agua e vida para que se possa viver;Negativo
+494;Cuide da vida;Negativo
+495;Eu espanquei mas fiquei bem;Negativo
+496;Gritei e me senti bem;Negativo
+497;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
+498;Eu espanquei mas fiquei bem;Negativo
+499;Gritei e me senti bem;Negativo
+500;A tecnologia e algo que ultimamente voce entende ou se perde;Negativo
